@@ -1,2 +1,2 @@
 # EM-Algorithm
-Python implementation of Expectation Maximizatio (EM) Algorithm.
+Implementation of Expectation Maximizatio (EM) Algorithm.
